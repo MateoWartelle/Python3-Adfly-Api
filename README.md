@@ -3,7 +3,7 @@ updated Adfly API support for Python 3
 by Mateo Wartelle
 
 # Introduction
-Adfly or adf.ly is a URL shortening service that allows users to shorten urls which serve a 5 second ad to the end consumer prior to being redirected to their original destination.
+Adfly or adf.ly is a URL shortening service that allows users to shorten urls which serve a 5 second ad to the end consumer prior to being redirected to there original intended destination.
 
 I began using Adfly in 2008 with the launch of a website dedicted to the Playstation Portable and Playstation 2 Homebrew development. During this time I was in high school and found my passion for computer science. I had used Adfly to fund the cost of my domains and would go on to use it to fund my community college. 
 
