@@ -19,7 +19,8 @@ To install dependencies, run
 $ pip3 install requirements.txt
 ```
 # Config
-You will need to go to https://api.adf.ly and grab your SECRET_KET & PUBLIC_KEY. These will go inside of the class AdflyApiExample()
+You will need to go to https://api.adf.ly and grab your SECRET_KET & PUBLIC_KEY. 
+These will go inside of the class AdflyApiExample()
 
 ```python
 class AdflyApiExample():
@@ -30,3 +31,8 @@ class AdflyApiExample():
     AUTH_TYPE = dict(basic=1, hmac=2)
 ```
 # Making Calls
+```
+>>> URLShortened = convert_to_adfly("www.google.com")
+>>> print (URLShortended)
+http://yoineer.com/43U0
+```
