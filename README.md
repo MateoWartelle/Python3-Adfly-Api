@@ -19,7 +19,7 @@ To install dependencies, run
 $ pip3 install requirements.txt
 ```
 # Config
-You will need to go to https://api.adf.ly and grab your SECRET_KET & PUBLIC_KEY. 
+You will need to go to https://api.adf.ly and grab your SECRET_KET & PUBLIC_KEY.<br> 
 These will go inside of the class AdflyApiExample()
 
 ```python
