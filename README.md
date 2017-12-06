@@ -9,9 +9,14 @@ I began using Adfly in 2008 with the launch of a website dedicted to the Playsta
 
 As I came to terms with many deprecated Python 2 modules, functions and packages this was one I could not see coming to an end. I had decided to bring this API back to life with Python 3 support and an easy to use convert_to_adfly function to make calls to.
 
-#Installing 
+# Installing 
 ```
-git clone 
+$ git clone https://github.com/MateoWartelle/Python3-Adfly-Api.git
+$ cd Python3-Adfly-Api
+```
+To install dependencies, run
+```
+$ pip3 install requirements.txt
 ```
 
 ```python
